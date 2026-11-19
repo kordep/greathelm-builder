@@ -1,0 +1,10 @@
+*.pdf
+*.zip
+*.log
+.env
+.env.*
+exports/
+private/
+research/
+test-results/
+node_modules/
