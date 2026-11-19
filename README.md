@@ -1,12 +1,12 @@
 # Greathelm — The Knight Register
 
-Independent campaign builder by PK Solutions. **Local beta 0.2.1**, based on Greathelm playtest **0.4.0**; not an official Greathelm product.
+Independent campaign builder by PK Solutions. **Beta 0.2.1**, based on Greathelm playtest **0.4.0**; not an official Greathelm product.
 
 A self-contained static app: create knight records, track campaign aftermath and equipment, consult references, and print A4 records. Interface in English.
 
 ## Try it
 
-Once GitHub Pages is enabled for this repository, open:
+Open the published app:
 
 **https://kordep.github.io/greathelm-builder/**
 
@@ -19,6 +19,13 @@ Or download `index.html` and open it in a current desktop Chrome/Edge browser. N
 - Use **Export JSON** for backups or to share an order intentionally; **Import JSON** creates a copy.
 - The public site and a downloaded/local HTML have separate browser storage. Export/import to move a campaign between them.
 - Clearing browser data or using a private browsing session can lose local saves. Export regularly.
+
+## Latest refinements
+
+- Start with six blank knights; **+ Add knight** adds more records, including during setup. The standard six-participant scene limit remains.
+- New orders use one Renown per active named knight with at least one Tier 2 achievement. This remains a provisional convention; existing orders keep their saved convention.
+- **During play** now searches table names and contents. Search does not narrow the printed reference set.
+- **Equipment & stash** and **History** are collapsible sections in **The order**, not separate main tabs. Inventory, battle records and guarded reversal remain available.
 
 ## Beta scope
 
